@@ -1,8 +1,8 @@
-hi i'm @345670M- 👋 Hi, I’m @345670m
- i'm interested inSoftware engineering- 👀 I’m interested in ...
-i'm currently learning coding- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-reach me on - 📫 How to reach me ...
+- 👋 Hi, I’m @345670m
+- 👀 I’m interested in sofrtware engineer
+-  🌱 I’m currently learning coding languages
+- 💞️ I’m looking to collaborate on alx platform
+- 📫 How to reach me @345670m
 
 <!---
 345670m/345670m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
